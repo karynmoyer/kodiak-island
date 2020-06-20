@@ -14,8 +14,18 @@ It was created as a tabletop style rpg that eschewed the need for a GM/DM (game 
 
 ### Original Intent
 
-The intention of creating this game was to
+The intention of creating this game was to give college writing students a means of testing various theories regarding something tangible--namely--surviving the kodiak wilderness with certain equipment and knowledge. The students were expected to do real research beforehand, develop hypotheses regarding what the experience would be like, play the game (and thus test their hypotheses), and then write a research paper (in the form of a Survival Guide).
 
 ## Description
 
 The game will essentially be text based, at first.
+
+## Roadmap
+
+### Frontend
+
+- IndexedDB for client-side caching of savestate
+
+### Backend
+
+- 

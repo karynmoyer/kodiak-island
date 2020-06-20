@@ -1,0 +1,42 @@
+Hunt,Difficulty,Inventory,Energy Type,Energy,Description,Type(s),Forest,Glacier,Grassland,Lake,Mountain,Ocean,River,Seashore,Tundra
+Kodiak Bear,4,,Red,40,,Ursus,4,0,2,3,3,0,4,1,2
+Red Fox,1,,Red,5,,Canine,2,0,4,2,2,0,2,0,3
+Rock Ptarmigan,1,,Red,2,,Avian,0,0,0,0,4,0,0,3,0
+Rabbit,1,,Red,4,,Rodentia,0,0,4,0,3,0,0,0,3
+Beaver,2,,Red,15,,Rodentia,0,0,0,4,0,0,4,0,0
+River Otter,1,,Red,6,,Rodentia,0,0,0,0,0,0,4,0,0
+Red Squirrel,0,,Red,1,Cannot use Medium or Large Guns.,Rodentia,5,0,3,0,3,0,3,0,0
+Blacktail Deer,3,,Red,27,,Fauna,4,0,3,2,1,0,3,0,0
+Elk,4,,Red,45,,Fauna,0,0,2,1,1,0,1,0,4
+Willow Ptarmigan,1,,Red,2,,Avian,4,0,3,0,0,0,0,0,2
+,,,,,,,19,0,21,12,17,0,21,4,14
+,,,,,,,,,,,,,,,
+Fish,,,,,,,,,,,,,,,
+Forage,Difficulty,Inventory,Energy Type,Energy,Description,Type(s),Forest,Glacier,Grassland,Lake,Mountain,Ocean,River,Seashore,Tundra
+Alder,1,2,Green,0,"Science or Survivalism, Discard Alder: build a fire.  Survivalism, Requires Large Heat Source, Requires Cutting Tool, Discard 1 Alder, 3 Energy: put a 7 Kayak Vehicle that can transport 2 people over River, Lake, and Ocean terrain.",Wood,1,0,1,0,1,0,5,0,0
+Sitka Spruce,0,3,Green,1,"Poultice: Heal Minor Burns.  Food: +5 Energy.  Survivalism, 5 Sitka Spruce, 2 Rope, 2 Energy: put a 21 Inventory Boat vehicle into play that can transport up to 4 people on River, Lake, or Ocean terrain, with -1 to Piloting rolls.","Wood, Poultice, Food",6,0,0,0,0,0,0,0,0
+Angelica Root,2,1,Green,0,"Poultice: Ignore Buggy Influence Card, Reduce Cost of Hunting by 1.",Poultice,0,0,2,0,0,0,1,1,0
+Beach Peas,1,1,Green,0,Food: Cure Malnourished.,Food,0,0,0,0,0,0,0,2,0
+Beach Greens,0,1,Green,0,Food: Cure Scurvy.,Food,0,0,0,0,0,0,0,2,0
+Salmonberry Shoots,2,1,Green,0,"Poultice: Cure Minor Wounds, Minor Burns, or Minor Infections.",Poultice,1,0,2,0,0,0,0,0,0
+Old Man's Beard,0,1,Green,0,Poultice: Cure Minor Wounds.,"Poultice, Tinder",1,0,0,0,0,0,0,0,0
+Nettle,1,1,Green,0,"Food: Cure Minor Wounds.  Survivalism, discard 5 Nettle: Put a Nettle Rope into play with 10 Use counters on it.  When there are 0 Use counters on Nettle Rope discard Nettle Rope.","Food, Tinder",0,0,0,0,0,0,0,1,0
+Horsetail,0,1,Green,0,Food: Cure Minor Wounds.,"Food, Tinder",1,0,0,0,0,0,0,0,0
+Fiddlehead Fern,1,1,Green,0,"Food: Cure Scurvy, and Malnutrition.  Costs 1 extra water to eat.",Food,1,0,0,0,2,0,1,0,0
+Dandelion,0,1,Green,0,"Food: Cure Scurvy, and Malnutrition.",Food,0,0,2,0,1,0,1,0,0
+Cow Parsnip,0,1,Green,0,Food: Ignore Effects of Common Cold for 1 turn.,Food,0,0,2,0,0,0,1,1,0
+Beach Loveage,0,1,Green,0,Food.  +1 water.,Food,0,0,0,0,0,0,0,2,0
+,,,,,,,11,0,9,0,4,0,9,9,0
+,,,,,,,30,0,30,12,21,0,30,13,14
+,,,,,,,,,,,,,,,
+Influence,Difficulty,Inventory,Energy Type,Energy,Description,Type(s),Forest,Glacier,Grassland,Lake,Mountain,Ocean,River,Seashore,Tundra
+Malnourished,,,,,"Play immediately.  Give this card to the first player with less than 4 energy.  That player has -2 to their inventory, and burns an additional 1 energy per turn.",Condition,2,2,2,2,2,2,2,2,2
+Buggy,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Scavenge,Difficulty,Inventory,Energy Type,Energy,Description,Type(s),Forest,Glacier,Grassland,Lake,Mountain,Ocean,River,Seashore,Tundra
+Broken Flashlight,0,1,,,,"Small Container, Reflective Surface",1,0,1,1,1,1,1,1,1
+Drawing of a Trap,5,0,,,,,1,0,0,0,0,0,0,0,0
+Axe Handle,1,2,,,,"Medium Smashing Tool, Medium Lever",1,0,0,0,0,0,0,0,0
+Broken Lighter,2,0,,,,Flint,1,0,1,1,1,0,2,2,1
+Old Rope,0,1,,,Comes into play with 1 Use counters.  When there are 0 Use counters on Rope discard Rope.,Rope,0,1,0,0,2,0,1,3,0
+Long Old Rope,0,2,,,Comes into play with 3 Use counters.  When there are 0 Use counters on Rope discard Rope.,Rope,0,2,0,0,1,0,2,1,0
