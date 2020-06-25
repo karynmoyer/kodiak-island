@@ -1,2 +1,6 @@
 kodiak-island.code-workspace
+<<<<<<< HEAD
 node_modules
+=======
+node_modules
+>>>>>>> webpack

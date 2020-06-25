@@ -1,0 +1,28 @@
+{
+  "name": "kodiak-island",
+  "version": "1.0.0",
+  "description": "## Scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karynmoyer/kodiak-island.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karynmoyer/kodiak-island/issues"
+  },
+  "homepage": "https://github.com/karynmoyer/kodiak-island#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
